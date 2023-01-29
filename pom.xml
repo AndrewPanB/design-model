@@ -19,5 +19,6 @@
         <module>abstract-factory-model</module>
         <module>strategy-model</module>
         <module>singleton-model</module>
+        <module>template-model</module>
     </modules>
 </project>
